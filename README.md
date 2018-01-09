@@ -1,2 +1,2 @@
 # quickstart-android
-Proposes to learn android only.ç
+Purposes to learn Android only.
